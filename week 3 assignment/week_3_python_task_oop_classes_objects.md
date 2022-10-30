@@ -1,0 +1,11 @@
+submission:
+A
+A
+C
+C
+B
+D
+C
+B
+B
+B
